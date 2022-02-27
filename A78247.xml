@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Long Parliament is not revived by Tho. Philips. Or, An answer to Tho. Philips his Long Parliament revived. By R. C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78247</idno>
+            <idno type="STC">Wing C107</idno>
+            <idno type="STC">Thomason E1050_8</idno>
+            <idno type="STC">ESTC R208160</idno>
+            <idno type="EEBO-CITATION">99867140</idno>
+            <idno type="PROQUEST">99867140</idno>
+            <idno type="VID">119431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119431)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1050[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Long Parliament is not revived by Tho. Philips. Or, An answer to Tho. Philips his Long Parliament revived. By R. C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N. W. at the Kings-head in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Thomas Philips, i.e. Sir William Drake. The Long Parliament revived.</note>
+                  <note>Annotation on Thomason copy: "Novem 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drake, William, --  Sir. --  Long Parliament revived.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119431:1" rendition="simple:additions"/>
+            <p>THE Long Parliament IS NOT REVIVED by THO. PHILIPS</p>
+            <p>OR, An ANSWER to <hi>Tho. Philips</hi> his <hi>Long Parliament Revived.</hi>
+            </p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <p>
+               <add>Novem 28</add> 
+               <hi>LONDON,</hi> Printed for <hi>N.W.</hi> at the <hi>Kings-head</hi> in St. <hi>Paul's</hi> Church-yard. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:119431:2"/>
+            <opener>
+               <dateline>
+                  <date>Anno 17. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act to prevent Inconveniences which may happen by the untimely adjourning, proroguing, or diſſolving of this pre<g ref="char:EOLhyphen"/>ſent Parliament.</head>
+            <p>VVHereas great Sums of Money muſt of neceſſity be ſpeedily advanced and provided for Re<g ref="char:EOLhyphen"/>lief of his <hi>MAJESTIES</hi> Army and People in the Northern parts of this Realm, and for preventing the immanent danger this Kingdom is in, and for ſupply of other his Majeſties preſent and urgent occaſi<g ref="char:EOLhyphen"/>ons, which cannot be ſo timely effected, as is requiſite with<g ref="char:EOLhyphen"/>out Credit for raiſing the ſaid moneys: Which Credit can<g ref="char:EOLhyphen"/>not be obtained untill ſuch obſtacles be firſt removed, as are occaſioned by fears, jealouſies, and apprehenſions of divers His Majeſties Loyal Subjects, that this preſent Parlia<g ref="char:EOLhyphen"/>ment may be adjourned, prorogued or diſſolved before Iu<g ref="char:EOLhyphen"/>ſtice ſhall be duly executed upon Deliquents; publike grievances redreſſed; a firm Peace betwéen the two Nati<g ref="char:EOLhyphen"/>ons of <hi>England</hi> and <hi>Scotland</hi> concluded, and before ſufficient proviſion be made for the repayment of the ſaid moneys ſo to be raiſed. All which the Commons in this preſent Par<g ref="char:EOLhyphen"/>liament aſſembled having duely conſidered, do therefore humblie beſéech your moſt excellent Majeſty that it may be declared, and Enacted.</p>
+            <p>And be it Declared and Enacted by the King our Sove<g ref="char:EOLhyphen"/>raign Lord, with the aſſent of the Lords and Commons in this preſent Parliament aſſembled, and by the Authority of the ſame that this preſent Parliament now aſſembled ſhall not be diſſolved unleſs it be by Act of Parliament to be paſſed for that purpoſe. Nor ſhall be at any time or times, during the continuance thereof, prorogued, or adjourned, un<g ref="char:EOLhyphen"/>leſs it be by Act of Parliament to be likewiſe paſſed for that purpoſe. And that the Houſe of Péers ſhall not at any time, or times, during this preſent Parliament, be adjourned, unleſs it be by themſelves, or by their own Order: And in like manner, that the Houſe of Commons ſhall not at any time, or times, during this preſent Parliament, be adjour<g ref="char:EOLhyphen"/>ned, unleſs it be by themſelves, or by their own Order. And that all, and every thing, and things, whatſoever done, or to be done, for the adjournment, proroguing or diſſolving of this preſent Parliament, contrary to this Act, ſhall be utter<g ref="char:EOLhyphen"/>ly void, and of none effect.</p>
+         </div>
+         <div type="political_tract">
+            <pb n="1" facs="tcp:119431:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative strip with a French fleur-de-lis flanked by a Tudor rose and a Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>THE Long Parliament IS NOT REVIVED.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Authors Introduction is in the firſt Para<g ref="char:EOLhyphen"/>graph, an Apology for the Peace of the Nation upon a Laſting Foundation, which in the next Pa<g ref="char:EOLhyphen"/>ragraph he does not doubt but lies in Parliaments rightly conſtituted, and in their juſt and lawfull Priviledges: And this in the third Paragraph he ſaies muſt hold true in relation to the <hi>Long Parlia<g ref="char:EOLhyphen"/>ment,</hi> called by the late King <hi>CHARLES</hi> of bleſſed memory, which being conſtituted legally and indiſſolvible but by Act of Par<g ref="char:EOLhyphen"/>liament, and not diſſolved by Act of Parliament, is yet in force: to evidence which he brings in three Arguments.</p>
+            <p n="1">1. <hi>The Title, or end of the Act,</hi> viz. <hi>that it was an Act to prevent inconveniencies that may happen by the untimely Adjourning, Proroguing, or diſſolving this preſent Parliament,</hi> viz. <hi>want of credit to raiſe money to maintain his Majeſties Army and people in the North,</hi> &amp;c.</p>
+            <p>
+               <hi>The ſecond is, That this preſent Parliament ſhall not be diſſolved but by Act of Parliament.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:119431:3"/>
+               <hi>The third is, That all, and every thing and things whatſoever, done, or to be done, for Adjourning, Proroguing, or diſſolving this preſent Parlia<g ref="char:EOLhyphen"/>ment, contrary to this Act, ſhall be utterly void, and of none effect;</hi> and therefore this Parliament wanting theſe Formalities, is yet in be<g ref="char:EOLhyphen"/>ing, and no Parliament can be hereafter convened, before this be thus formally diſſolved, or it muſt needs follow, two Parliaments may be exiſtent at the ſame time, which he beleeves to be ſo ab<g ref="char:EOLhyphen"/>ſurd as none will aver. There is an Anſwer to Mr. <hi>Prin,</hi> and againſt the Authority of this Convention, which his Majeſty his owned a Parliament. What the Authors diſpoſition is to the Peace of this Nation, upon a right foundation, I know not, what Peace he hopes to find by <hi>Reviving the Long Parliament,</hi> few can tell, but none have found. That it does not follow, that the <hi>Long Parliament</hi> is not Diſſolved, or Revived from any of his three Arguments, we will ſhew.</p>
+            <p>For firſt, his firſt Argument is drawn from the end, or title of the Act, to prevent the inconveniencies which may ariſe by the untimely Proroguing, Adjourning, or Diſſolving the Parliament, for want of money to maintain his Majeſties Army and people in the North: If the force of the continuance of the <hi>Long Parliament</hi> be drawn from hence, then muſt the Parliament be diſſolved (or at leaſt diſſolvable without Act of Parliament) upon the payment of his Majeſties Army and people in the North; for <hi>ceſſante ratione legis, ceſſat lex:</hi> But it muſt needs be irrational, and moſt abſurd, to aver, that any Law can create a contrary, or different obligation from the firſt reaſon and end of it, <hi>viz.</hi> Becauſe they might be a Parliament untill they had relieved his Majeſties Army and people in the North, therefore they might deſtroy his Majeſties Army and people in the North.</p>
+            <p>The ſecond is, <hi>That this preſent Parliament ſhall not be diſſolved but by Act of Parliament.</hi> If the Act had ſaid, the Parliament ſhall not be legally diſſolved but by Act of Parliament, then this Au<g ref="char:EOLhyphen"/>thor might have diſputed againſt the Legality of that Act, which ſhould otherwiſe have diſſolved it; but if this Author ſhall affirm this Parliament to be in being, becauſe not legally diſſolved, is all one as to ſay, no man is killed or oppreſſed, becauſe Subjects ought to be preſerved in their lives and eſtates by Laws and Acts of Par<g ref="char:EOLhyphen"/>liament; and this Parliament might as well have made an Act that none of their Members ſhould dye but by Act of Parliament, as that they ſhould not be diſſolved but by Act of Parliament.</p>
+            <p>
+               <pb n="3" facs="tcp:119431:3"/>The third is, <hi>that all, and every thing or things whatſoever done, or to be done for the Adjourning, Proroguing, or diſſolving of this preſent Parliament contrary to this Act, ſhall be utterly voyd, and of none ef<g ref="char:EOLhyphen"/>fect.</hi> Such was the omnipotency of theſe men in their beginning, that they beleeved all things, how impoſſible ſoever, to be very ſenſible to eſtabliſh their Greatneſs and Reign: For things ſimply impoſſible are impoſſible even to God himſelf; as that contradi<g ref="char:EOLunhyphen"/>ctions ſhould be true, or that any thing ſhould be, and not be at the ſame inſtant. Yet ſuch was the Omnipotency of theſe Members, that contradictory and impoſſible things muſt not be repugnant, but ſubſiſt in order to their perpetuity and greatneſs. For if things be done, they muſt neceſſarily be done, and ſo cannot be voyd and of non-effect, whatſoever they may be in Law.</p>
+            <p>I pray Reader take notice, that the Author of this Pamphlet, not only inſiſts upon impoſſible things to prove the continuance of the Parliament, but his very title is contradictory and abſurd, which revives the <hi>Long Parliament,</hi> and yet affirms it not diſſolved; whereas if it had not been diſſolved, it could never be revived; and a man may as well diſpute thus as our Author does: No man ought to do violence upon, or kill himſelf but by his own conſent; and that if a man does violate or kill himſelf, or be violated, or killed by another, contrary hereunto, ſuch force ſhall be utterly voyd, and of none effect; therefore every man ſhall live, though he kill himſelf, or be killed by another; which I think no man in his wits will affirm.</p>
+            <div type="part">
+               <head>The <hi>LONG PARLIAMENT</hi> diſſolved, and dead, &amp; never to be revived.</head>
+               <p>IT is not worth, upon ſo mean an occaſion to declare the Princi<g ref="char:EOLhyphen"/>ples of Power, from whence Humane Laws are derived, and what creates them obligation: Or whether effects or accidents of Power can create any alteration or obligation upon that Power: As if Laws made be derogatory to the Power that made them. For example, if by an Act of Parliament the Crown of <hi>England</hi> were aliened againſt the Right of Succeſſion; or that it ſhould hold of
+<pb n="4" facs="tcp:119431:4"/>
+the Pope or any one elſe; or that there be not ſufficient Means left to the King to protect his Subjects; for <hi>Salus Populi ſuprema Lex:</hi> Neither will I diſpute at what time Laws and Acts of Parliament take place: But that Civil Lawes take not place alwaies, is evi<g ref="char:EOLhyphen"/>dent; for <hi>inter Arma ſilent Leges:</hi> Or who ſhall plead the benefit of them, as whether any man can plead the benefit of Law for Treaſon,<note place="margin">
+                     <hi>Inſt.</hi> 3, 9.</note> Felony or Breach of Peace: And whether (ſince no Subject can levy Arms without Treaſon, but by Authority of the King) The Long Parliaments raiſing Arms againſt the King, did not juſtly invalidate all benefit they could claim by vertue of this Act, or any other Law? I ſhall endeavour to ſhew three things: 1. Whether the Long Parliament be totally diſſolved. 2. Whether in the ordinary nature of things it can be revived. And laſtly, Whether the Members have any juſt cauſe to complain. But that we do not loſe our ſelves in obſcurity, as our Author does, we will firſt define our terms, and ſo ſet down our Notions, as to be ſo un<g ref="char:EOLhyphen"/>derſtood, as any man may reject or deny any thing herein.</p>
+               <p>Firſt then, A Parliament is a Politique Body, compounded (not of three States, as our Author would, of King, Lords and Commons, but) of heterogenial or diſſimular parts, <hi>viz.</hi> the King, the <hi>Principium, Caput &amp; Finis</hi> of it, and of the Lords Spi<g ref="char:EOLhyphen"/>ritual and Temporal, one diſtinct Houſe, and of the Houſe of Commons, another diſtinct houſe; both which houſes are conve<g ref="char:EOLhyphen"/>ned and created by the Kings Writ.<note place="margin">
+                     <hi>Inſt,</hi> 4. <hi>p.</hi> 1, 4.</note> Sir <hi>Edw. Coke</hi> cals them, <hi>Conventus Sapientum,</hi> Inſt. 4. p. 2. Now all Conventions and Aſ<g ref="char:EOLhyphen"/>ſemblies whatſoever, are either regular or irregular: All regular Conventions and Aſſemblies do proceed from, and may be redu<g ref="char:EOLhyphen"/>ced into one juſt and certain Principle, which cauſes and creates thoſe Aſſemblies; but all other Conventions and Aſſemblies, which do not proceed from one certain, juſt Principle, are rather Com<g ref="char:EOLhyphen"/>motions or Routs, than Aſſemblies. Theſe regular Conventions and Aſſemblies are ſo either potentially or actually; potentially, two waies, either when a rightful power conſtitutes any company of men to meet at time and place, theſe men thus impowered, have by right a power of convention and aſſembling at ſuch time and place; or elſe after they be convened, either by the power which firſt convened, or by themſelves they adjourn or prorogue to ſome certain time or place, and for want of ſuch proroguing, ad<g ref="char:EOLhyphen"/>journing or covening, all ſuch Conventions are totally diſſolved, becauſe their Conventions did not proceed from a certain and juſt
+<pb n="5" facs="tcp:119431:4"/>
+Principle, which might create them: Or actually, when ſuch re<g ref="char:EOLhyphen"/>gular Aſſemblies are actually convened by vertue of a juſt authority, impowering them: the two Houſes therefore being the Conven<g ref="char:EOLhyphen"/>tion and Aſſembly, which united to the King, the Head of them, rightly convened by vertue of the Kings Writ, and after prorogued or adjourned either by the King or themſelves, to meet at a certain time and place, do continue ſuch Conventions; otherwiſe they may meet in Riots and Routs, in regular Aſſemblies they cannot.</p>
+               <p n="1">1. Now would I fain know, when the two worthy Speakers deſerted their Speakerſhips, and run from the Houſe to the Army, and joyned with them againſt the remaining part of the Members, they did prorogue to a certain time and place, wherein they did convene by vertue of ſuch Adjournment: Or whether there were then two Parliaments in being, which our Author ſo abominates, one at <hi>Weſtminſter,</hi> another in the Army: and whether when the Low<g ref="char:EOLhyphen"/>er Houſe retained nothing but the Rump, and having turned the remaining part of the Lords (who had before excluded by like means, 3 times the number of themſelves, who had as good Title as themſelves to ſit there) &amp; four times their own number out of them<g ref="char:EOLhyphen"/>ſelves) were a rightful Aſſembly, duely convened in time and place; if they were, then may a part be equal to the whole; and the Speaker joyned with <hi>Henry Martin,</hi> and <hi>Titchbourn,</hi> and his Ma<g ref="char:EOLhyphen"/>jeſties Sergeants, <hi>Glin</hi> and <hi>Maynard,</hi> ſince Knighted, may yet be a rightful Parliament: But if it be true, that <hi>Formae rerum ſicut nu<g ref="char:EOLhyphen"/>meri conſiſtunt indiviſibili,</hi> and that the aggregate body of a Parlia<g ref="char:EOLhyphen"/>ment conſiſts of both Houſes duly convened in time and place, then if either be not rightly Aſſembled actually or potentially, the whole is utterly diſſolved; much more, when neither are ſo, as the caſe now ſtands with us.</p>
+               <p n="2">2. The Houſes thus diſſolved, I would now know what power can revive them, it muſt be either they themſelves, or the King: If it be themſelves, what hinders them from convening (yet I be<g ref="char:EOLhyphen"/>lieve our Author will hardly perſwade the Speaker and Lord S<hi rend="sup">t</hi> 
+                  <hi>John</hi> to make two) if they &amp; the world be ſatisfied ſuch Convention be juſt and regular? If it be by the King, it muſt be either Legally or Arbitra<g ref="char:EOLhyphen"/>rily: If Legally, the King muſt revive it by vertue of ſome Act of Par<g ref="char:EOLhyphen"/>liament, or by Common Law: If by Act of Parliament it muſt be revived, let our Author, or any one elſe ſhew it: If by Common Law, then let him or any one elſe ſhew any Preſident for a Kings reviving a Parliament, and I will preſently yield the cauſe: So I am
+<pb n="6" facs="tcp:119431:5"/>
+quit with him for his Anſwer to Mr. <hi>Prin</hi>'s firſt Objection. But if the King do it, and yet neither by Act of Parliament nor Common Law, then muſt it be done by an Arbitrary Power, which is every whit as dangerous as his Concluſion. King <hi>Charles</hi> upon the death of King <hi>James,</hi> asked Sir <hi>Edw. Coke,</hi> whether he might not conti<g ref="char:EOLhyphen"/>nue (or rather revive) the Parliament diſſolved by his Fathers death? he anſwered negatively, becauſe Parliaments could not be convened, but by the ancient and uſual Form, which this was not.</p>
+               <p n="3">3. But becauſe it is objected, that though the Houſes be diſſolved, yet are they not legally diſſolved, and ſo violently done: And great Crime this! I pray who did, or who may complain? Did not the Members (all but the firſt perſecuted) from their firſt be<g ref="char:EOLhyphen"/>ginning, abuſe all the Kings Grants and Favours to his own and Loy<g ref="char:EOLhyphen"/>al Subjects prejudice? Did not they themſelves turn out one another, from the Contents unto the end of the Chapter, until there was ſcarce any of either Houſe (none of the Lords) to turn out? And if no Fool or Mad man, ſhall in Law complain againſt his own Act? for <hi>volenti non fit injuria,</hi> then the Members have no reaſon to complain of their uſage to one another, and of diſſolving of themſelves; and the Nation is ſo far from complaining, that I believe, with a bitter ſenſe, they wiſh they had never been.</p>
+               <p>But ſuppoſe the King might revive them, yet if he might do it, then he might not, and might chuſe whether he would or not: And can any man in his wits believe, the bitter ſenſe of his Fathers death, and his own, his Mothers, and Brothers and Siſters ſuffer<g ref="char:EOLhyphen"/>ing by them, would not divert him from ſuch an intention, unleſs he did deſire to have the Tragedy revived again, upon himſelf and Family, and all his Loyal Subjects; who after ſo many ſtorms of their unjuſt ſuffering for their Conſcience, may reaſonably hope, through Gods Bleſſing, for the future, to be protected by his Ma<g ref="char:EOLhyphen"/>jeſties peaceable Government, from them, which upon the reviving of the Long Parliament, they could not reaſonably hope.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119431:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
